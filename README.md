@@ -1,9 +1,11 @@
 ### Peace be upon you. ✨ _Welcome to my GitHub!_
 
+Hey, This is <b>Tarikul Islam</b>, and welcome to my Github profile. I've profound knowledge in <i>Mobile application development</i>. I love to solve problems and highly enthusiastic about learning new things and trying out new ideas. Furthermore, I am passionate about Learning New Technology and like to learn anything about different programming languages, frameworks, algorithms, data structures, design patterns.
+
 Here are some ideas to get you started:
 <ul>
 <li>
-     <b>🔭 Currently working on:</b>  `Android` (Java, Kotlin), `Cross platform App` (Flutter).
+     <b>🔭 Currently working on:</b>  <i>Android</i> (Java, Kotlin), `Cross platform App` (Flutter).
    </li>
   <li>
      <b>🌱 Getting better at:  </b>  Application UI and coding pattern.
