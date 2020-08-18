@@ -45,4 +45,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikul711&layout=compact" />
 
 <p><img align='right' src="https://komarev.com/ghpvc/?username=tarikul711" alt="tarikul711" /> </p> 
-![visitors](https://profile-counter.glitch.me/Tarikul711/count.svg)
