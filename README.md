@@ -15,7 +15,7 @@ Hey, This is <b>Tarikul Islam</b>, and welcome to my Github profile. I've profou
 Here are some ideas to get you started:
 <ul>
 <li>
-     <b>🔭 Currently working on:</b>  <i>Android</i> (Java, Kotlin), `Cross platform App` (Flutter).
+     <b>🔭 Currently working on:</b>  <b><i>Android</i></b> (Java, Kotlin), <b><i>Cross-platform-App</b></i> (Flutter).
    </li>
   <li>
      <b>🌱 Getting better at:  </b>  Application UI and coding pattern.
