@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarikul711&show_icons=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikul711&layout=compact" />
-
-<p><img align='right' src="https://komarev.com/ghpvc/?username=tarikul711" alt="tarikul711" /> </p> 
+<b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
+<img align='right' src="https://komarev.com/ghpvc/?username=tarikul711" alt="tarikul711" />
