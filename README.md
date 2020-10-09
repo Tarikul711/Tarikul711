@@ -37,7 +37,6 @@ Here are some ideas to get you started:
    <li>
      <b>⚡ Fun fact:  </b> I honestly think mochas are the best beverage mankind has created.
    </li>
-  
 </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarikul711&show_icons=true&include_all_commits=true">
